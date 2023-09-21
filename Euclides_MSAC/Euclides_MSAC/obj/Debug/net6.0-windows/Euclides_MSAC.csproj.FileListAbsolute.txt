@@ -1,0 +1,7 @@
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.csproj.AssemblyReference.cache
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.Form1.resources
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.csproj.GenerateResource.cache
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.AssemblyInfoInputs.cache
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.AssemblyInfo.cs
+C:\Users\magab\source\repos\Euclides_MSAC\Euclides_MSAC\obj\Debug\net6.0-windows\Euclides_MSAC.csproj.CoreCompileInputs.cache
